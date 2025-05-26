@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>
+<td style="vertical-align: top;">
 
 # Hi there! 👋  
 
