@@ -1,8 +1,4 @@
-<table>
-<tr>
-<td style="vertical-align: top;">
-
-# Hi there! 👋  
+# Hello there! 🖐
 
 I'm **Hoshang Sheth**, a passionate **Data Scientist & Machine Learning Engineer** from Mumbai, India, dedicated to transforming complex data into actionable insights that drive growth and innovation.  
 
@@ -11,13 +7,6 @@ I'm **Hoshang Sheth**, a passionate **Data Scientist & Machine Learning Engineer
 🔹 Proficient in **Python, MySQL, TensorFlow, Scikit-Learn, and Data Visualization** tools.  
 🔹 Building scalable, production-ready AI/ML applications with end-to-end deployment experience.  
 🔹 Open to collaborative projects and freelancing opportunities on **Upwork & Fiverr**.  
-
-</td>
-<td>
-<img src="https://media.tenor.com/1rJ5IR3EaUoAAAAC/coding.gif" width="220"/>
-</td>
-</tr>
-</table>
 
 ## 🚀 Portfolio Projects  
 
