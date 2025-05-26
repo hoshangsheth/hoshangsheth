@@ -14,7 +14,7 @@ I'm **Hoshang Sheth**, a passionate **Data Scientist & Machine Learning Engineer
   - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)
   - [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
   - Developed a comprehensive recommendation system that suggests movies and games based on user input using advanced NLP for smart search and cosine similarity for precise recommendations.  
-  - Integrated TMDB and game APIs to fetch rich metadata including posters, ratings, and purchase/streaming links.  
+  - Integrated TMDB(Movies) and RAWG(Games) APIs to fetch rich metadata including posters, ratings, and purchase/streaming links.  
   - Deployed as an interactive Streamlit app with a clean, user-friendly interface for seamless exploration.
 
 - 📌 [Customer Segmentation (K-Means Clustering)](https://github.com/hoshangsheth/customer-segmentation-kmeans)  
