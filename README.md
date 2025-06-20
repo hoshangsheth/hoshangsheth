@@ -5,9 +5,13 @@ I'm Hoshang Sheth, a dedicated Data Scientist & Machine Learning Engineer based 
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
 
 🔹 Specializing in Machine Learning, Deep Learning, MLOps, and End-to-End Deployment.
+
 🔹 Actively mastering Generative AI, NLP, and advanced Deep Learning architectures.
+
 🔹 Skilled in Python, MySQL, Scikit-learn, TensorFlow, and Data Visualization (Power BI, Matplotlib, Seaborn, Plotly).
+
 🔹 Experienced in building production-ready pipelines with tools like Streamlit, Flask, FastAPI, and Docker.
+
 🔹 Open to impactful collaborations, freelance projects, and data-driven consulting on Upwork & Fiverr.
 
 Let’s turn raw data into smart decisions and real-world value.
