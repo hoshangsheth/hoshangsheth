@@ -1,12 +1,15 @@
 # Hello there! 🖐
 
-I'm **Hoshang Sheth**, a passionate **Data Scientist & Machine Learning Engineer** from Mumbai, India, dedicated to transforming complex data into actionable insights that drive growth and innovation.  
+I'm Hoshang Sheth, a dedicated Data Scientist & Machine Learning Engineer based in Mumbai, India, passionate about turning data into scalable, intelligent solutions that create real-world impact.
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
 
-🔹 Continuously advancing my expertise in **AI, Machine Learning, and Data Science** to solve real-world challenges.  
-🔹 Upskilling myself in specialized **Deep Learning** and **Generative AI** to stay at the forefront of innovation.  
-🔹 Proficient in **Python, MySQL, TensorFlow, Scikit-Learn, and Data Visualization** tools.  
-🔹 Building scalable, production-ready AI/ML applications with end-to-end deployment experience.  
-🔹 Open to collaborative projects and freelancing opportunities on **Upwork & Fiverr**.  
+🔹 Specializing in Machine Learning, Deep Learning, MLOps, and End-to-End Deployment.
+🔹 Actively mastering Generative AI, NLP, and advanced Deep Learning architectures.
+🔹 Skilled in Python, MySQL, Scikit-learn, TensorFlow, and Data Visualization (Power BI, Matplotlib, Seaborn, Plotly).
+🔹 Experienced in building production-ready pipelines with tools like Streamlit, Flask, FastAPI, and Docker.
+🔹 Open to impactful collaborations, freelance projects, and data-driven consulting on Upwork & Fiverr.
+
+Let’s turn raw data into smart decisions and real-world value.
 
 ## 🚀 Portfolio Projects  
 
@@ -23,6 +26,14 @@ I'm **Hoshang Sheth**, a passionate **Data Scientist & Machine Learning Engineer
   - Executed unsupervised learning with K-Means clustering to identify distinct customer segments based on purchasing behavior and demographics.  
   - Built a Streamlit application that allows users to input new customer data and dynamically predict their segment, facilitating targeted marketing strategies.  
   - The project helps businesses personalize customer outreach and optimize resource allocation for maximum ROI.
+
+- 📌 [Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)  
+  - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/smart-loan-recovery-system)
+  - [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
+  - Designed an ML-powered solution to predict the most effective loan recovery strategy per borrower using financial and behavioral data.  
+  - Leveraged XGBoost and clustering techniques for high-risk borrower detection and personalized strategy suggestions including legal escalation.  
+  - Deployed a fully interactive Streamlit app allowing lenders to input borrower data, get real-time predictions, and visualize risk segments and loan portfolio insights.
+
 
 ## 🚀 Skills
 
@@ -44,7 +55,8 @@ I'm **Hoshang Sheth**, a passionate **Data Scientist & Machine Learning Engineer
 ## 🎓 Certifications  
 
 [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-March%202025-blue?style=for-the-badge)](https://drive.google.com/file/d/1JL7bSjSbNduv03cadgaMH4R98gJxufrL/view)  
-[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)    
+[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)
+[![SQL Certification](https://img.shields.io/badge/SQL%20(HackerRank)-June%202025-orange?style=for-the-badge)](https://drive.google.com/file/d/1LT2-3KtXaLBoZ9m3OcPvVcL3f5fDtgPU/view?usp=sharing)
 
 💡 Always eager to learn, build, and grow in the AI & ML space!  
 
