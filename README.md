@@ -1,6 +1,7 @@
 # Hello there! 🖐
 
 I'm Hoshang Sheth, a dedicated Data Scientist & Machine Learning Engineer based in Mumbai, India, passionate about turning data into scalable, intelligent solutions that create real-world impact.
+
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
 
 🔹 Specializing in Machine Learning, Deep Learning, MLOps, and End-to-End Deployment.
