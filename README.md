@@ -16,7 +16,7 @@ I'm Hoshang Sheth, a dedicated Data Scientist & Machine Learning Engineer based 
 
 Let’s turn raw data into smart decisions and real-world value.
 
-## 🚀 Portfolio Projects  
+## 💻 Portfolio Projects  
 
 - 📌 [Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)  
   - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)
@@ -40,7 +40,7 @@ Let’s turn raw data into smart decisions and real-world value.
   - Deployed a fully interactive Streamlit app allowing lenders to input borrower data, get real-time predictions, and visualize risk segments and loan portfolio insights.
 
 
-## 🚀 Skills
+## 🧠 Skills
 
 ### Programming & Databases  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
