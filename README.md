@@ -61,7 +61,7 @@ Let’s turn raw data into smart decisions and real-world value.
 
 [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-March%202025-blue?style=for-the-badge)](https://drive.google.com/file/d/1JL7bSjSbNduv03cadgaMH4R98gJxufrL/view)  
 [![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)
-[![SQL Certification](https://img.shields.io/badge/SQL%20(HackerRank)-June%202025-orange?style=for-the-badge)](https://drive.google.com/file/d/1LT2-3KtXaLBoZ9m3OcPvVcL3f5fDtgPU/view?usp=sharing)
+[![SQL Certification](https://img.shields.io/badge/SQL%20(HackerRank)-September%202024-orange?style=for-the-badge)](https://drive.google.com/file/d/1LT2-3KtXaLBoZ9m3OcPvVcL3f5fDtgPU/view?usp=sharing)
 
 💡 Always eager to learn, build, and grow in the AI & ML space!  
 
