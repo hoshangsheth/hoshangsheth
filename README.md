@@ -35,10 +35,9 @@ Let’s turn raw data into smart decisions and real-world value.
 - 📌 [Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)  
   - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/smart-loan-recovery-system)
   - [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
-  - Designed an ML-powered solution to predict the most effective loan recovery strategy per borrower using financial and behavioral data.  
-  - Leveraged XGBoost and clustering techniques for high-risk borrower detection and personalized strategy suggestions including legal escalation.  
-  - Deployed a fully interactive Streamlit app allowing lenders to input borrower data, get real-time predictions, and visualize risk segments and loan portfolio insights.
-
+  - Designed an ML-powered solution to predict the most effective loan recovery strategy for each borrower using both financial and behavioral data.
+  - Utilizes XGBoost and clustering techniques to identify high-risk borrowers and deliver personalized strategy recommendations, including legal escalation when warranted.
+  - Delivered as a fully interactive Streamlit application, enabling lenders to input borrower data, receive real-time risk predictions, and visualize risk segments and loan portfolio insights for smarter, data-driven recovery decisions.
 
 ## 🧠 Skills
 
