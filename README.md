@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Hoshang Sheth
 
-🎯 A passionate **Data Scientist & Machine Learning Engineer** based in Mumbai, India — building intelligent, scalable, and business-impacting AI solutions. Currently pursuing **BCA with specialization in AI & Data Science (2025–2028)**, and always hungry for growth, learning, and innovation.
+🎯 A passionate **Data Scientist & Machine Learning Engineer** based in Mumbai, India — building intelligent, scalable, and business-impacting AI solutions. Currently pursuing **BCA with specialization in AI & Data Science (2025–2028)** at *Amrita Vishwa Vidyapeetham*, one of India's leading tech universities - blending theory, innovation, and hands-on development.
 
 [![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoshangsheth)
