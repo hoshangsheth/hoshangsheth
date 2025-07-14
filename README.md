@@ -1,68 +1,106 @@
-# Hello there! 🖐
+# 👋 Hello, World! I'm Hoshang Sheth
 
-I'm Hoshang Sheth, a dedicated Data Scientist & Machine Learning Engineer based in Mumbai, India, passionate about turning data into scalable, intelligent solutions that create real-world impact.
+🎯 A passionate **Data Scientist & Machine Learning Engineer** based in Mumbai, India — building intelligent, scalable, and business-impacting AI solutions. Currently pursuing **BCA with specialization in AI & Data Science (2025–2028)**, and always hungry for growth, learning, and innovation.
 
-[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
+[![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoshangsheth)
+[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth)
 
-🔹 Specialized in Machine Learning, Deep Learning, MLOps, and End-to-End Deployment.
+---
 
-🔹 Actively mastering in Generative AI, NLP, and advanced Deep Learning.
+## 🚀 What I Do
 
-🔹 Skilled in Python, MySQL, Scikit-learn, TensorFlow, Keras and Data Visualization (Power BI, Matplotlib, Seaborn, Plotly).
+🔹 Specialize in **Machine Learning, Deep Learning, MLOps**, and **Full-Stack AI Deployment**  
+🔹 Currently diving deep into **Generative AI**, **NLP**, and **Reinforcement Learning**  
+🔹 Expert in **Python**, **MySQL**, **Scikit-learn**, **TensorFlow**, **Keras**, and **Data Visualization**  
+🔹 Build real-time apps with **Streamlit**, **Flask**, **FastAPI**, **Docker**, and **HuggingFace**  
+🔹 Available for **freelance projects**, **consulting**, and **Upwork/Fiverr gigs**
 
-🔹 Experienced in building production-ready pipelines with tools like Streamlit, Flask, FastAPI, and Docker.
+> 💡 *Let's turn raw data into smart, revenue-driving decisions.*
 
-🔹 Open to impactful collaborations, freelance projects, and data-driven consulting on Upwork & Fiverr.
+---
 
-Let’s turn raw data into smart decisions and real-world value.
+## 🧠 Projects with Real-World Impact
 
-## 💻 Portfolio Projects  
+### 📌 [🎬 Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
 
-- 📌 [Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)  
-  - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)
-  - [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
-  - Developed a comprehensive recommendation system that suggests movies and games based on user input using advanced NLP for smart search and cosine similarity for precise recommendations.  
-  - Integrated TMDB(Movies) and RAWG(Games) APIs to fetch rich metadata including posters, ratings, and purchase/streaming links.  
-  - Deployed as an interactive Streamlit app with a clean, user-friendly interface for seamless exploration.
+- Built a **content-based recommender system** using NLP + Cosine Similarity for precise suggestions.
+- Integrated **TMDB** & **RAWG** APIs to fetch high-quality metadata (posters, ratings, streaming links).
+- Delivered a sleek **Streamlit UI** for immersive movie/game exploration and mood-based discovery.
 
-- 📌 [Customer Segmentation (K-Means Clustering)](https://github.com/hoshangsheth/customer-segmentation-kmeans)  
-  - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/customer-segmentation-kmeans)
-  - [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://customers-profiling.streamlit.app/)
-  - Executed unsupervised learning with K-Means clustering to identify distinct customer segments based on purchasing behavior and demographics.  
-  - Built a Streamlit application that allows users to input new customer data and dynamically predict their segment, facilitating targeted marketing strategies.  
-  - The project helps businesses personalize customer outreach and optimize resource allocation for maximum ROI.
+---
 
-- 📌 [Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)  
-  - [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth/smart-loan-recovery-system)
-  - [![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
-  - Designed an ML-powered solution to predict the most effective loan recovery strategy for each borrower using both financial and behavioral data.
-  - Utilizes XGBoost and clustering techniques to identify high-risk borrowers and deliver personalized strategy recommendations, including legal escalation when warranted.
-  - Delivered as a fully interactive Streamlit application, enabling lenders to input borrower data, receive real-time risk predictions, and visualize risk segments and loan portfolio insights for smarter, data-driven recovery decisions.
+### 📌 [🛍 Customer Segmentation using KMeans](https://github.com/hoshangsheth/customer-segmentation-kmeans)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://customers-profiling.streamlit.app/)
 
-## 🧠 Skills
+- Used **KMeans clustering** to profile customers based on spending habits and demographics.
+- Enabled **real-time segment prediction** with interactive Streamlit app input forms.
+- Helps businesses tailor offers and improve **ROI through hyper-targeted marketing**.
 
-### Programming & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+---
 
-### Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+### 📌 [💰 Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
 
-### Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+- Developed an ML-based tool to predict **risk level of borrowers** and suggest recovery strategy.
+- Used **XGBoost + Clustering** to detect high-risk defaulters and recommend actions.
+- Empowered financial institutions with **data-driven dashboards** for recovery optimization.
 
-## 🎓 Certifications  
+---
+
+## 💼 Skills at a Glance
+
+### 🐍 Programming & Databases
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 ML & AI Stack
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=databricks&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3C4E74?style=for-the-badge&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🧪 Deployment & API
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📂 Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📜 Certifications
 
 [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-March%202025-blue?style=for-the-badge)](https://drive.google.com/file/d/1JL7bSjSbNduv03cadgaMH4R98gJxufrL/view)  
-[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)
-[![SQL Certification](https://img.shields.io/badge/SQL%20(HackerRank)-September%202024-orange?style=for-the-badge)](https://drive.google.com/file/d/1LT2-3KtXaLBoZ9m3OcPvVcL3f5fDtgPU/view?usp=sharing)
+[![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)  
+[![SQL (HackerRank)](https://img.shields.io/badge/SQL%20(HackerRank)-September%202024-orange?style=for-the-badge)](https://drive.google.com/file/d/1LT2-3KtXaLBoZ9m3OcPvVcL3f5fDtgPU/view?usp=sharing)
 
-💡 Always eager to learn, build, and grow in the AI & ML space!  
+---
 
-### Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hoshangsheth)
+## 🌱 Currently Learning
+
+- Deep Learning Specialization (Andrew Ng - Coursera)
+- Computer Vision Bootcamp (Krish Naik - Udemy)
+- Automation + AI Bots using Python + Streamlit + n8n
+- Freelance-focused development tools for real clients
+
+---
+
+## ☕ Let’s Connect & Collaborate!
+
+I'm open to internships, freelance gigs, part-time opportunities, or just having an inspiring tech conversation.
+
+📬 Reach out on [LinkedIn](https://www.linkedin.com/in/hoshangsheth) or check out my [Portfolio](https://hoshangsheth.carrd.co/)
+
+---
