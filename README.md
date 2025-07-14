@@ -23,7 +23,7 @@
 ## 🧠 Projects with Real-World Impact
 
 ### 📌 [🎬 Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
 
 - Built a **content-based recommender system** using NLP + Cosine Similarity for precise suggestions.
 - Integrated **TMDB** & **RAWG** APIs to fetch high-quality metadata (posters, ratings, streaming links).
@@ -32,7 +32,7 @@
 ---
 
 ### 📌 [🛍 Customer Segmentation using KMeans](https://github.com/hoshangsheth/customer-segmentation-kmeans)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://customers-profiling.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://customers-profiling.streamlit.app/)
 
 - Used **KMeans clustering** to profile customers based on spending habits and demographics.
 - Enabled **real-time segment prediction** with interactive Streamlit app input forms.
@@ -41,7 +41,7 @@
 ---
 
 ### 📌 [💰 Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
 
 - Developed an ML-based tool to predict **risk level of borrowers** and suggest recovery strategy.
 - Used **XGBoost + Clustering** to detect high-risk defaulters and recommend actions.
@@ -90,10 +90,13 @@
 
 ## 🌱 Currently Learning
 
-- Deep Learning Specialization (Andrew Ng - Coursera)
-- Computer Vision Bootcamp (Krish Naik - Udemy)
-- Automation + AI Bots using Python + Streamlit + n8n
-- Freelance-focused development tools for real clients
+> I believe in investing into what and where it truly matters. Here’s what I’m actively upskilling in to stay ahead and build AI solutions that matter:
+
+🔸 **Computer Vision Bootcamp** by Krish Naik *(Udemy)* — mastering image-based ML, CNNs, face detection, OCR, and object tracking for smart applications.
+🔸 **AI Bots & Automation Workflows** — building end-to-end automations using Python, Streamlit, and n8n to power WhatsApp bots, schedulers, and real-time alerts.
+🔸 **Freelance-Centric Dev Stack** — learning tools that speed up delivery for real clients (custom APIs, web scraping, auto dashboards, and deployable microservices).
+
+> My goal is to bridge tech with business — building tools that not only work but **deliver value**.
 
 ---
 
@@ -102,5 +105,4 @@
 I'm open to internships, freelance gigs, part-time opportunities, or just having an inspiring tech conversation.
 
 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/hoshangsheth) or check out my [Portfolio](https://hoshangsheth.carrd.co/)
-
 ---
