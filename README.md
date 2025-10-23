@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Hoshang Sheth
 
-🎯 A passionate **Data Scientist & Machine Learning Engineer** based in Mumbai, India — building intelligent, scalable, and business-impacting AI solutions. Currently pursuing **BCA with specialization in AI & Data Science (2025–2028)** at *Amrita Vishwa Vidyapeetham*, one of India's leading tech universities - blending theory, innovation, and hands-on development.
+🎯 A passionate **Data Scientist & Machine Learning Engineer** based in Mumbai, India - building intelligent, scalable, and business-impacting AI solutions. Currently pursuing **BCA with specialization in AI & Data Science (2025–2028)** at *Amrita Vishwa Vidyapeetham*, one of India's leading tech universities - blending theory, innovation, and hands-on development.
 
 [![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshangsheth.carrd.co/)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoshangsheth)
@@ -10,11 +10,10 @@
 
 ## 🚀 What I Do
 
-🔹 Specialize in **Machine Learning, Deep Learning, MLOps**, and **Full-Stack AI Deployment**  
-🔹 Currently diving deep into **Generative AI**, **NLP**, and **Reinforcement Learning**  
-🔹 Expert in **Python**, **MySQL**, **Scikit-learn**, **TensorFlow**, **Keras**, and **Data Visualization**  
-🔹 Build real-time apps with **Streamlit**, **Flask**, **FastAPI**, **Docker**, and **HuggingFace**  
-🔹 Available for **freelance projects**, **consulting**, and **Upwork/Fiverr gigs**
+🔹 Specialize in **Machine Learning, Deep Learning, MLOps**, and **Full-Stack AI Deployment**
+🔹 Currently diving deep into **Generative AI**, **NLP**, and **Reinforcement Learning**
+🔹 Expert in **Python**, **MySQL**, **Scikit-learn**, **TensorFlow**, **Keras**, and **Data Visualization** 
+🔹 Build real-time apps with **Streamlit**, **Flask**, **FastAPI**, **Docker**, and **HuggingFace**
 
 > 💡 *Let's turn raw data into smart, revenue-driving decisions.*
 
@@ -88,19 +87,19 @@
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 > I believe in investing into what and where it truly matters. Here’s what I’m actively upskilling in to stay ahead and build AI solutions that matter:
 
-🔸 **Computer Vision Bootcamp** by Krish Naik *(Udemy)* — mastering image-based ML, CNNs, face detection, OCR, and object tracking for smart applications.
-🔸 **AI Bots & Automation Workflows** — building end-to-end automations using Python, Streamlit, and n8n to power WhatsApp bots, schedulers, and real-time alerts.
-🔸 **Freelance-Centric Dev Stack** — learning tools that speed up delivery for real clients (custom APIs, web scraping, auto dashboards, and deployable microservices).
+🔸 Maths for Data Science by Krish Naik (Udemy) - mastering the mathematical backbone of ML: linear algebra, calculus, probability, and statistics with practical intuition.
+🔸 Python Data Structures & Algorithms by Krish Naik (Udemy) - strengthening coding fundamentals and logical problem-solving to write optimized, production-ready data workflows.
+🔸 Machine Learning Specialization by Andrew Ng (Coursera) - mastering supervised, unsupervised, and advanced ML techniques with hands-on projects in model tuning, feature engineering, and deployment.
 
 > My goal is to bridge tech with business — building tools that not only work but **deliver value**.
 
 ---
 
-## ☕ Let’s Connect & Collaborate!
+## Let’s Connect & Collaborate!
 
 I'm open to internships, freelance gigs, part-time opportunities, or just having an inspiring tech conversation.
 
