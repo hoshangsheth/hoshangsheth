@@ -10,9 +10,9 @@ I design and build intelligent, scalable, and business-driven AI solutions that 
 🔹 Focused on solving business problems with data
 
 🔗 Professional Profiles
-[![Portfolio](https://img.shields.io/badge/🌐-My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshang-portfolio.carrd.co/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hoshang-portfolio.carrd.co/)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoshangsheth)
-[![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoshangsheth)
 
 ---
 
