@@ -6,7 +6,9 @@ Hello, World! I'm **Hoshang Sheth**
 **I design and build intelligent, scalable, and business-driven AI solutions that convert raw data into actionable intelligence. Currently pursuing a BCA with Specialization in Artificial Intelligence & Data Science (2025–2028) from Amrita Vishwa Vidyapeetham, while continuously strengthening my practical skills through real-world projects and advanced certifications.**
 
 🔹 Strong foundation in Machine Learning, Deep Learning, and Data Analytics
+
 🔹 Passionate about building production-ready AI systems
+
 🔹 Focused on solving business problems with data
 
 ## Professional Profiles
