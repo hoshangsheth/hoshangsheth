@@ -33,17 +33,17 @@ Approach: Business Problem → Data Understanding → Modeling → Deployment �
 I build AI systems that don’t just run - they create measurable impact.
 
 🧠 Projects with Real-World Impact
-### 📌 [🎬 Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)[![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
+### 📌 [🎬 Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)  [![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://movies-games-recommendation-engine.streamlit.app/)
 - Built a **content-based recommender system** using NLP + Cosine Similarity for precise suggestions.
 - Integrated **TMDB** & **RAWG** APIs to fetch high-quality metadata (posters, ratings, streaming links).
 - Delivered a sleek **Streamlit UI** for immersive movie/game exploration and mood-based discovery.
 ---
-### 📌 [🛍 Customer Segmentation using KMeans](https://github.com/hoshangsheth/customer-segmentation-kmeans) [![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://customers-profiling.streamlit.app/) 
+### 📌 [🛍 Customer Segmentation using KMeans](https://github.com/hoshangsheth/customer-segmentation-kmeans)  [![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://customers-profiling.streamlit.app/) 
 - Used **KMeans clustering** to profile customers based on spending habits and demographics.
 - Enabled **real-time segment prediction** with interactive Streamlit app input forms.
 - Helps businesses tailor offers and improve **ROI through hyper-targeted marketing**.
 ---
-### 📌 [💰 Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system) [![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
+### 📌 [💰 Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)  [![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-loan-recovery-system.streamlit.app/)
 - Developed an ML-based tool to predict **risk level of borrowers** and suggest recovery strategy.
 - Used **XGBoost + Clustering** to detect high-risk defaulters and recommend actions.
 - Empowered financial institutions with **data-driven dashboards** for recovery optimization. ---
@@ -72,16 +72,16 @@ I build AI systems that don’t just run - they create measurable impact.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ---
 
 ## 📈 GitHub Stats
-![Hoshang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshangsheth&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshangsheth&layout=compact&theme=tokyonight)
+![Hoshang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoshangsheth&show_icons=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoshangsheth&layout=compact&hide_border=true)
 
 ## 📜 Certifications
 
 [![Data Scientist](https://img.shields.io/badge/Data%20Scientist-March%202025-blue?style=for-the-badge)](https://drive.google.com/file/d/1JL7bSjSbNduv03cadgaMH4R98gJxufrL/view)  
 [![Data Analyst](https://img.shields.io/badge/Data%20Analyst-April%202024-green?style=for-the-badge)](https://drive.google.com/file/d/1GS4yX-rZeO179BGDo9-lE7Ycu6TrYYrk/view)  
 [![SQL (HackerRank)](https://img.shields.io/badge/SQL%20(HackerRank)-September%202024-orange?style=for-the-badge)](https://drive.google.com/file/d/1LT2-3KtXaLBoZ9m3OcPvVcL3f5fDtgPU/view?usp=sharing)  
-[![Mathematics for DS & GenAI](https://img.shields.io/badge/Mathematics%20for%20DS%20%26%20GenAI-Certificate-purple?style=for-the-badge)](https://drive.google.com/file/d/1_W8wClSb0kXJpPzY0_bT_IX_kcNYEmnP/view?usp=drive_link)
+[![Mathematics for DS & GenAI](https://img.shields.io/badge/Mathematics%20for%20DS%20%26%20GenAI-December%202025-purple?style=for-the-badge)](https://drive.google.com/file/d/1_W8wClSb0kXJpPzY0_bT_IX_kcNYEmnP/view?usp=drive_link)
 
 ## 📚 Currently Learning
 
