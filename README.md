@@ -31,7 +31,7 @@
 - Deployment: Streamlit, Flask, FastAPI, Docker, HuggingFace
 
 ### Approach: Business Problem → Data Understanding → Modeling → Deployment → Impact
-#### I build AI systems that don’t just run - they create measurable impact.
+#### I build AI systems that don't just run - they create measurable impact.
 
 ---
 
@@ -50,6 +50,11 @@
 - Developed an ML-based tool to predict **risk level of borrowers** and suggest recovery strategy.
 - Used **XGBoost + Clustering** to detect high-risk defaulters and recommend actions.
 - Empowered financial institutions with **data-driven dashboards** for recovery optimization.
+---
+### [🏦 Bank Customer Churn Predictor](https://github.com/hoshangsheth/churn-predictor-app)  [![Live App](https://img.shields.io/badge/Live-Demo-6e40aa?style=for-the-badge&logo=streamlit&logoColor=white)](https://bank-churn-predictor-app.streamlit.app/)
+- Built an **end-to-end churn prediction system** powered by an ANN (TensorFlow/Keras) trained on 10 demographic and financial features.
+- Applied **LabelEncoding + OneHotEncoding + StandardScaler** pipeline to preprocess raw customer data for deep learning inference.
+- Delivered a sleek **neural prediction engine UI** in Streamlit with real-time churn probability scoring and animated risk indicators.
 
 ---
 
@@ -88,9 +93,8 @@
 ---
 
 ## 📚 Currently Learning
-- Machine Learning Specialization - Andrew Ng (Coursera)
-- Deep Learning Specialization - Andrew Ng (Coursera)
-- Computer Vision Bootcamp - Krish Naik (Udemy)
+- Generative AI Bootcamp - Krish Naik (Udemy)
+- Agentic AI - Krish Naik (Udemy)
 
 # Learning Philosophy:
 Build → Break → Improve → Deploy → Repeat.
