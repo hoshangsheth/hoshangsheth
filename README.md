@@ -127,7 +127,7 @@ Self-taught. Currently pursuing a BCA in AI & Data Science (Amrita Vishwa Vidyap
 XGBoost + clustering to predict borrower risk and recommend recovery strategy. Built for financial institutions to action decisions, not just view data.
 `XGBoost` `Scikit-Learn` `Streamlit`
 
-**[Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)** &nbsp;·&nbsp; [Live](https://movies-games-recommendation-engine.streamlit.app/)
+**[Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)** &nbsp;·&nbsp; [Live](https://filmoracle.vercel.app/)
 Content-based recommender using NLP + cosine similarity. Pulls live metadata from TMDB and RAWG APIs. Built for real discovery, not demos.
 `NLP` `Cosine Similarity` `TMDB API` `RAWG API` `Streamlit`
 
