@@ -24,16 +24,11 @@
 
 ## About Me
 
-I build **Generative AI applications, backend APIs, automation workflows, and machine learning solutions** with a focus on solving real business problems through clean, maintainable software.
+I'm a Generative AI Engineer with a BCA in AI & Data Science from Amrita Vishwa Vidyapeetham, backed by certifications in Data Science, Data Analytics, and Generative AI. I build backend APIs, retrieval-augmented generation systems, and ML pipelines — and I care more about whether a system survives real usage than whether a demo looks good in a screen recording.
 
-* **Education:** BCA in AI & Data Science (Amrita Vishwa Vidyapeetham), plus certifications in Data Science, Data Analytics, and Generative AI.
-* **Professional philosophy:** solve real business problems, keep systems simple first, then scale with discipline.
-* **Career goals:** grow into a high-impact **GenAI / AI Engineer** who ships reliable products, not just demos.
-* **Specialization:** Python, SQL, FastAPI, ML, GenAI, RAG, agents, backend systems, automation, and deployment.
-* **Engineering mindset:** modular design, clear interfaces, testability, observability, performance, and production readiness.
-* **Technical interests:** LLM apps, retrieval systems, workflow automation, API design, data pipelines, MLOps, and scalable SaaS products.
+My default engineering approach: get the simplest version working end-to-end first, then harden it. That usually means starting with a clean FastAPI service and a working data flow before adding clustering, embeddings, or explainability layers on top. When something breaks in production — a memory ceiling on a free-tier host, a schema mismatch in a pipeline — I treat it as a design problem to solve, not a bug to patch around.
 
----
+**Focus areas:** backend API development, RAG systems, LLM integrations, recommendation systems, feature engineering, and deploying ML-backed products on constrained infrastructure (free-tier hosting, no dedicated ops team).
 
 ---
 
@@ -42,40 +37,32 @@ I build **Generative AI applications, backend APIs, automation workflows, and ma
 <table>
   <tr>
     <th align="left">Project</th>
-    <th align="left">What it solves</th>
-    <th align="left">Why it matters</th>
+    <th align="left">What it does</th>
+    <th align="left">Engineering notes</th>
+  </tr>
+  <tr>
+    <td><strong>Smart Loan Recovery System</strong></td>
+    <td>Fintech SaaS product that scores loan recovery priority using engineered financial features, clustering-based risk segmentation, and supervised learning, with SHAP-based explainability for each prediction.</td>
+    <td>Rebuilt from a 1,500+ line Streamlit prototype into a FastAPI backend + React/Vite/Tailwind frontend. Ships an animated SVG risk gauge, a live segmentation feature, and auto-generated PDF reports via ReportLab.</td>
+  </tr>
+  <tr>
+    <td><strong>FilmOracle</strong></td>
+    <td>Hybrid recommendation engine for movies and games, combining semantic similarity with structured product logic.</td>
+    <td>Refactored from a single 1,200+ line Streamlit app into a FastAPI + React monorepo. Precomputed similarity matrices caused OOM crashes on Render's free tier, so I redesigned the engine to compute cosine similarity on demand instead of persisting large matrices.</td>
   </tr>
   <tr>
     <td><strong>SchemaHealer</strong></td>
     <td>Detects CSV schema drift and repairs column mismatches using rule-based logic, fuzzy matching, and GPT-assisted semantic mapping.</td>
-    <td>Prevents broken pipelines, reduces manual cleanup, and adds auditable healing logs for data teams.</td>
-  </tr>
-  <tr>
-    <td><strong>Smart Loan Recovery System</strong></td>
-    <td>Scores recovery priority using engineered financial features, clustering, and supervised learning.</td>
-    <td>Supports better collections strategy, prioritization, and risk segmentation.</td>
-  </tr>
-  <tr>
-    <td><strong>FilmOracle</strong></td>
-    <td>Hybrid recommendation engine for movies and games using semantic similarity and structured product logic.</td>
-    <td>Shows recommendation-system design, API integration, and product thinking.</td>
+    <td>Focused on auditability — every automated fix is logged so data teams can review what changed and why, not just trust a black-box repair.</td>
   </tr>
   <tr>
     <td><strong>Customer Segmentation</strong></td>
-    <td>KMeans-driven segmentation for marketing and user understanding.</td>
-    <td>Useful for targeting, personalization, and campaign optimization.</td>
+    <td>KMeans-driven clustering for marketing and user understanding.</td>
+    <td>Feature engineering and cluster validation focused on producing segments that are actually usable for targeting and campaign design, not just statistically distinct.</td>
   </tr>
 </table>
 
-### Project Design
-
-* **Architecture:** modular, layered, and API-first
-* **Tech stack:** Python, FastAPI, SQL, ML libraries, frontend integration where needed
-* **Key features:** validation, traceability, scalable design, and clean error handling
-* **Scalability:** stateless services, reusable components, and data pipeline readiness
-* **Security:** input validation, safe handling of files, and controlled external calls
-* **Engineering challenges:** schema drift, model reliability, feature engineering, and deployability
-* **Production readiness:** logging, configuration management, and clean boundaries between components
+**Common design principles across projects:** API-first architecture, stateless services, input validation on all external data, and clean boundaries between the ML/data layer and the API layer — so a model or pipeline can change without breaking the interface around it.
 
 ---
 
@@ -113,7 +100,7 @@ I build **Generative AI applications, backend APIs, automation workflows, and ma
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-Python • Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • ChromaDB • OpenAI APIs
+Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • ChromaDB • OpenAI APIs • XGBoost
 
 </td>
 
@@ -127,7 +114,7 @@ Python • Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • Ch
 
 <td valign="top">
 
-### DevOps & Deployment
+### Deployment & Tools
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,vercel" />
 
@@ -139,31 +126,13 @@ Docker • Render • Hugging Face Spaces • Linux • Postman
 
 ---
 
-## Engineering Focus
-
-- Backend API Development
-- Generative AI Applications
-- Retrieval-Augmented Generation (RAG)
-- LLM Integrations
-- AI Automation Workflows
-- Recommendation Systems
-- Feature Engineering
-- Data Processing Pipelines
-- Model Evaluation
-- Database Design
-- Deployment Fundamentals
-
----
-
 ## Professional Highlights
 
-* Built and iterated on **AI, ML, and automation projects** with real-world utility
-* Designed systems with **clean module boundaries** and maintainable code structure
-* Applied **feature engineering, model selection, validation, and evaluation**
-* Developed **backend-first thinking** with focus on API contracts and robustness
-* Worked across **Python, SQL, ML, GenAI, deployment, and product logic**
-* Built portfolio projects that demonstrate **business usefulness**, not just technical novelty
-* Continuously improving toward **open-source visibility and recruiter-ready execution**
+* Rebuilt two production ML applications (SLRS, FilmOracle) from Streamlit prototypes into FastAPI + React products, including solving a real memory-constraint failure on free-tier hosting
+* Applied feature engineering, clustering, and supervised learning to real segmentation and scoring problems, with explainability (SHAP) as a first-class requirement rather than an afterthought
+* Designed and shipped RAG and LLM-integration components as part of larger application architectures, not standalone notebooks
+* Worked backend-first: API contracts, validation, and error handling designed before UI polish
+* Deploy exclusively to free-tier infrastructure (Render, Vercel), which forces deliberate tradeoffs around memory, cold starts, and artifact size
 
 ---
 
@@ -194,8 +163,6 @@ Docker • Render • Hugging Face Spaces • Linux • Postman
 
 ---
 
----
-
 ## Let's Connect
 
 <p align="center">
@@ -207,14 +174,8 @@ Docker • Render • Hugging Face Spaces • Linux • Postman
 
 ---
 
-## Signature Quote
-
-> “Build systems that survive real traffic, real failures, and real business pressure - everything else is just a demo.”
-
----
-
 <div align="center">
 
-
+> "Build systems that survive real traffic, real failures, and real business pressure — everything else is just a demo."
 
 </div>
