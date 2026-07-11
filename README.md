@@ -41,9 +41,9 @@ My default engineering approach: get the simplest version working end-to-end fir
     <th align="left">Engineering notes</th>
   </tr>
   <tr>
-    <td><strong>Smart Loan Recovery System</strong></td>
-    <td>Fintech SaaS product that scores loan recovery priority using engineered financial features, clustering-based risk segmentation, and supervised learning, with SHAP-based explainability for each prediction.</td>
-    <td>Rebuilt from a 1,500+ line Streamlit prototype into a FastAPI backend + React/Vite/Tailwind frontend. Ships an animated SVG risk gauge, a live segmentation feature, and auto-generated PDF reports via ReportLab.</td>
+    <td><strong>SchemaHealer</strong></td>
+    <td>Detects CSV schema drift and repairs column mismatches using rule-based logic, fuzzy matching, and GPT-assisted semantic mapping.</td>
+    <td>Focused on auditability — every automated fix is logged so data teams can review what changed and why, not just trust a black-box repair.</td>
   </tr>
   <tr>
     <td><strong>FilmOracle</strong></td>
@@ -51,9 +51,9 @@ My default engineering approach: get the simplest version working end-to-end fir
     <td>Refactored from a single 1,200+ line Streamlit app into a FastAPI + React monorepo. Precomputed similarity matrices caused OOM crashes on Render's free tier, so I redesigned the engine to compute cosine similarity on demand instead of persisting large matrices.</td>
   </tr>
   <tr>
-    <td><strong>SchemaHealer</strong></td>
-    <td>Detects CSV schema drift and repairs column mismatches using rule-based logic, fuzzy matching, and GPT-assisted semantic mapping.</td>
-    <td>Focused on auditability — every automated fix is logged so data teams can review what changed and why, not just trust a black-box repair.</td>
+    <td><strong>Recovia</strong></td>
+    <td>Fintech SaaS product that scores loan recovery priority using engineered financial features, clustering-based risk segmentation, and supervised learning, with SHAP-based explainability for each prediction.</td>
+    <td>Rebuilt from a 1,500+ line Streamlit prototype into a FastAPI backend + React/Vite/Tailwind frontend. Ships an animated SVG risk gauge, a live segmentation feature, and auto-generated PDF reports via ReportLab.</td>
   </tr>
   <tr>
     <td><strong>Customer Segmentation</strong></td>
@@ -140,16 +140,7 @@ Docker • Render • Hugging Face Spaces • Linux • Postman
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshangsheth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshangsheth&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshangsheth&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=hoshangsheth&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 <br/><br/>
 
