@@ -22,9 +22,9 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I build **production-grade AI systems, backend services, automation workflows, and data-driven products** with a bias for shipping, measurable outcomes, and maintainable architecture.
+I build **Generative AI applications, backend APIs, automation workflows, and machine learning solutions** with a focus on solving real business problems through clean, maintainable software.
 
 * **Education:** BCA in AI & Data Science (Amrita Vishwa Vidyapeetham), plus certifications in Data Science, Data Analytics, and Generative AI.
 * **Professional philosophy:** solve real business problems, keep systems simple first, then scale with discipline.
@@ -35,39 +35,9 @@ I build **production-grade AI systems, backend services, automation workflows, a
 
 ---
 
-## 🏆 Competitive Programming & Achievements
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### Coding Platforms
-
-* LeetCode: consistent problem-solving for interviews and algorithmic thinking
-* CodeChef: competitive practice and speed under constraints
-* HackerRank: SQL, Python, and structured technical practice
-* GeeksforGeeks: DSA revision and interview prep
-* Codeforces: contest-style problem solving
-
-    </td>
-    <td valign="top" width="50%">
-
-### Strengths Beyond Code
-
-* Hackathon-style product thinking
-* GenAI and data science certifications
-* Internship experience in data-focused roles
-* Building portfolio projects with business value
-* Learning through implementation, debugging, and iteration
-
-    </td>
-  </tr>
-
-</table>
-
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
@@ -97,7 +67,7 @@ I build **production-grade AI systems, backend services, automation workflows, a
   </tr>
 </table>
 
-### Project Design Standards
+### Project Design
 
 * **Architecture:** modular, layered, and API-first
 * **Tech stack:** Python, FastAPI, SQL, ML libraries, frontend integration where needed
@@ -109,199 +79,83 @@ I build **production-grade AI systems, backend services, automation workflows, a
 
 ---
 
-## ⚡ Engineering Stack
+## Engineering Stack
 
 <table>
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td valign="top" width="33%">
 
-### 💻 Programming Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,sql,js,ts,html,css" />
 
-```
 </td>
 <td valign="top" width="33%">
-```
 
-### 🎨 Frontend Development
+### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,streamlit" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
-```
 </td>
 <td valign="top" width="33%">
-```
 
-### ⚙️ Backend Engineering
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker" />
 
-```
 </td>
-```
+</tr>
 
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td valign="top">
 
-### 🗄️ Databases
+### AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-```
+Python • Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • ChromaDB • OpenAI APIs
+
 </td>
-<td valign="top" width="33%">
-```
 
-### ☁️ Cloud & DevOps
+<td valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,render,githubactions" />
-</p>
+### Databases
 
-```
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+
 </td>
-<td valign="top" width="33%">
-```
 
-### 🤖 Artificial Intelligence
+<td valign="top">
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,huggingface" />
-</p>
+### DevOps & Deployment
 
-```
+<img src="https://skillicons.dev/icons?i=git,githubactions,vercel" />
+
+Docker • Render • Hugging Face Spaces • Linux • Postman
+
 </td>
-```
-
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-
-### ⛓️ Blockchain
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
-```
-</td>
-<td valign="top" width="33%">
-```
-
-### 📊 Data Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />
-</p>
-
-```
-</td>
-<td valign="top" width="33%">
-```
-
-### 🔐 Security
-
-<p>
-<img src="https://skillicons.dev/icons?i=cloudflare" />
-</p>
-
-```
-</td>
-```
-
-  </tr>
+</tr>
 </table>
 
 ---
 
-## 🏗️ Engineering Experience
+## Engineering Focus
 
-<table>
-  <tr>
-    <td>
-      <strong>Production backend systems</strong><br/>
-      Clean API design, service boundaries, request validation, and maintainable structure.
-    </td>
-    <td>
-      <strong>REST APIs</strong><br/>
-      Built for predictable contracts, modular services, and integration readiness.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Authentication & Authorization</strong><br/>
-      Identity-aware flows, secure access patterns, and role-based thinking.
-    </td>
-    <td>
-      <strong>Payment gateways</strong><br/>
-      Production-minded transaction flows and reliability-first implementation.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Microservices</strong><br/>
-      Service decomposition, separation of concerns, and integration clarity.
-    </td>
-    <td>
-      <strong>Event-driven architecture</strong><br/>
-      Async-friendly workflows, decoupled communication, and scalable processing.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>CQRS & Event sourcing</strong><br/>
-      Designing systems around read/write separation and traceable state change.
-    </td>
-    <td>
-      <strong>Distributed systems</strong><br/>
-      Failure-aware, observable, and scale-conscious engineering choices.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Cloud-native applications</strong><br/>
-      Deployment-aware development with portability and operational stability.
-    </td>
-    <td>
-      <strong>AI engineering</strong><br/>
-      RAG, agents, evaluation, prompt workflows, and model-assisted product layers.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Blockchain engineering</strong><br/>
-      Interest in smart-contract ecosystems and trust-minimized systems.
-    </td>
-    <td>
-      <strong>Data engineering</strong><br/>
-      ETL thinking, schema handling, quality checks, and pipeline resilience.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Security engineering</strong><br/>
-      Input validation, safe defaults, least privilege, and risk reduction.
-    </td>
-    <td>
-      <strong>Performance optimization</strong><br/>
-      Practical profiling, targeted improvements, and production tuning.
-    </td>
-  </tr>
-</table>
+- Backend API Development
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG)
+- LLM Integrations
+- AI Automation Workflows
+- Recommendation Systems
+- Feature Engineering
+- Data Processing Pipelines
+- Model Evaluation
+- Database Design
+- Deployment Fundamentals
 
 ---
 
-## 🏆 Professional Highlights
+## Professional Highlights
 
 * Built and iterated on **AI, ML, and automation projects** with real-world utility
 * Designed systems with **clean module boundaries** and maintainable code structure
@@ -313,7 +167,7 @@ I build **production-grade AI systems, backend services, automation workflows, a
 
 ---
 
-## 📈 GitHub Metrics
+## GitHub Metrics
 
 <div align="center">
 
@@ -340,46 +194,27 @@ I build **production-grade AI systems, backend services, automation workflows, a
 
 ---
 
-## 🌱 Currently Exploring
-
-* AI Agents
-* LLM Engineering
-* System Design
-* Cloud Native Architecture
-* Kubernetes
-* Distributed Computing
-* High Performance Systems
-* Blockchain Infrastructure
-* Agentic AI
-* RAG Systems
-* Multi-Agent Systems
-
 ---
 
-## 🤝 Let’s Connect
+## Let's Connect
 
 <p align="center">
 <a href="mailto:hoshangsheth@gmail.com"><img src="https://img.shields.io/badge/Email-hoshangsheth%40gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hoshangsheth/"><img src="https://img.shields.io/badge/LinkedIn-hoshangsheth-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/hoshangsheth"><img src="https://img.shields.io/badge/GitHub-hoshangsheth-7AA2F7?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://hoshangsheth.com"><img src="https://img.shields.io/badge/Portfolio-hoshangsheth.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-7AA2F7?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7AA2F7?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-7AA2F7?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter%2FX-Profile-7AA2F7?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💬 Signature Quote
+## Signature Quote
 
-> “Build systems that survive real traffic, real failures, and real business pressure — everything else is just a demo.”
+> “Build systems that survive real traffic, real failures, and real business pressure - everything else is just a demo.”
 
 ---
 
 <div align="center">
 
-**Tokyo Night. Production-first. Recruiter-ready. Open-source minded.**
+
 
 </div>
