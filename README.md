@@ -87,7 +87,7 @@ I build **Generative AI applications, backend APIs, automation workflows, and ma
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,sql,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python,mysql,js,ts,html,css" />
 
 </td>
 <td valign="top" width="33%">
