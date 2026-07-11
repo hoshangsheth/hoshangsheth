@@ -121,7 +121,7 @@ Python • Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • Ch
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
 </td>
 
