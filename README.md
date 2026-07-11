@@ -24,9 +24,9 @@
 
 ## About Me
 
-I'm a Generative AI Engineer with a BCA in AI & Data Science from Amrita Vishwa Vidyapeetham, backed by certifications in Data Science, Data Analytics, and Generative AI. I build backend APIs, retrieval-augmented generation systems, and ML pipelines — and I care more about whether a system survives real usage than whether a demo looks good in a screen recording.
+I'm a Generative AI Engineer with a BCA in AI & Data Science from Amrita Vishwa Vidyapeetham, backed by certifications in Generative AI, Data Science, Data Analytics. I build backend APIs, retrieval-augmented generation systems, AI agents, Automations, and ML pipelines - and I care more about whether a system survives real usage than whether a demo looks good in a screen recording.
 
-My default engineering approach: get the simplest version working end-to-end first, then harden it. That usually means starting with a clean FastAPI service and a working data flow before adding clustering, embeddings, or explainability layers on top. When something breaks in production — a memory ceiling on a free-tier host, a schema mismatch in a pipeline — I treat it as a design problem to solve, not a bug to patch around.
+My default engineering approach: get the simplest version working end-to-end first, then harden it. That usually means starting with a clean FastAPI service and a working data flow before adding clustering, embeddings, or explainability layers on top. When something breaks in production, a memory ceiling on a free-tier host, a schema mismatch in a pipeline, I treat it as a design problem to solve, not a bug to patch around.
 
 **Focus areas:** backend API development, RAG systems, LLM integrations, recommendation systems, feature engineering, and deploying ML-backed products on constrained infrastructure (free-tier hosting, no dedicated ops team).
 
@@ -62,7 +62,7 @@ My default engineering approach: get the simplest version working end-to-end fir
   </tr>
 </table>
 
-**Common design principles across projects:** API-first architecture, stateless services, input validation on all external data, and clean boundaries between the ML/data layer and the API layer — so a model or pipeline can change without breaking the interface around it.
+**Common design principles across projects:** API-first architecture, stateless services, input validation on all external data, and clean boundaries between the ML/data layer and the API layer, so a model or pipeline can change without breaking the interface around it.
 
 ---
 
@@ -167,6 +167,6 @@ Docker • Render • Hugging Face Spaces • Linux • Postman
 
 <div align="center">
 
-> "Build systems that survive real traffic, real failures, and real business pressure — everything else is just a demo."
+> "Build systems that survive real traffic, real failures, and real business pressure, everything else is just a demo."
 
 </div>
