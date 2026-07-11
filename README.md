@@ -1,190 +1,385 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8C89A&height=120&section=header&text=Hoshang%20Sheth&fontSize=42&fontColor=1A1209&fontAlignY=65&desc=Gen%20AI%20Engineer%20%7C%20Mumbai%2C%20India&descFontColor=1A1209&descAlignY=85&descSize=16" width="100%" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=820&lines=Hoshang+Sheth;Generative+AI+Engineer;Backend+%2B+MLOps+%2B+Automation;Building+production-grade+AI+systems" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=hoshangsheth&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoshang%20Sheth-7AA2F7?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hoshangsheth/)
+[![GitHub](https://img.shields.io/badge/GitHub-hoshangsheth-7AA2F7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hoshangsheth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hoshangsheth.com-7AA2F7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://hoshangsheth.com)
+[![Email](https://img.shields.io/badge/Email-hoshangsheth@gmail.com-7AA2F7?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hoshangsheth@gmail.com)
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-Production%20Systems-1ABC9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Backend%20Engineering-FastAPI%20%7C%20Python-9B59B6?style=flat-square" />
+<img src="https://img.shields.io/badge/MLOps%20%26%20Automation-Scalable%20Workflows-F39C12?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20Source-Recruiter%20Ready-7AA2F7?style=flat-square" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8C89A&center=true&vCenter=true&width=800&height=50&lines=Building+intelligent+systems+for+real-world+impact.;LLMs+%C2%B7+RAG+%C2%B7+FastAPI+%C2%B7+LangChain+%C2%B7+LangGraph;Full-time+%C2%B7+Freelance+%C2%B7+Contract" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hoshangsheth&color=A0856A&style=for-the-badge&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://www.hoshangsheth.com"><img src="https://img.shields.io/badge/PORTFOLIO-www.hoshangsheth.com-E8C89A?style=for-the-badge&logo=firefox&logoColor=1A1209" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hoshangsheth"><img src="https://img.shields.io/badge/LINKEDIN-hoshangsheth-E8C89A?style=for-the-badge&logo=linkedin&logoColor=1A1209" /></a>
-&nbsp;
-<a href="mailto:hoshangsheth@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hoshangsheth@gmail.com-E8C89A?style=for-the-badge&logo=gmail&logoColor=1A1209" /></a>
-
-</div>
-
-<br/>
-
-**Gen AI Engineer** building production-grade LLM applications, RAG pipelines, and AI-powered tools — based in Mumbai, India.
-
-I don't just train models. I ship systems that solve real problems: schema drift detection, intelligent document retrieval, group recommendation engines. FastAPI backends. Deployed. Live.
-
-Self-taught. Currently pursuing a BCA in AI & Data Science (Amrita Vishwa Vidyapeetham, 2025–2028). Always building.
-
-<br/>
 
 ---
 
-<br/>
+## 🚀 About Me
 
-## Tech Stack
+I build **production-grade AI systems, backend services, automation workflows, and data-driven products** with a bias for shipping, measurable outcomes, and maintainable architecture.
 
-**AI / LLM**
-
-![LangChain](https://img.shields.io/badge/LangChain-1A1209?style=flat-square&logo=langchain&logoColor=E8C89A)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1A1209?style=flat-square&logoColor=E8C89A)
-![LangGraph](https://img.shields.io/badge/LangGraph-1A1209?style=flat-square&logoColor=E8C89A)
-![OpenAI](https://img.shields.io/badge/OpenAI-1A1209?style=flat-square&logo=openai&logoColor=E8C89A)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1A1209?style=flat-square&logo=huggingface&logoColor=E8C89A)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-1A1209?style=flat-square&logoColor=E8C89A)
-![Embeddings](https://img.shields.io/badge/Embeddings-1A1209?style=flat-square&logoColor=E8C89A)
-![Vector DB](https://img.shields.io/badge/Vector_DB-1A1209?style=flat-square&logoColor=E8C89A)
-
-**ML / DL**
-
-![Python](https://img.shields.io/badge/Python-1A1209?style=flat-square&logo=python&logoColor=E8C89A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1209?style=flat-square&logo=tensorflow&logoColor=E8C89A)
-![Keras](https://img.shields.io/badge/Keras-1A1209?style=flat-square&logo=keras&logoColor=E8C89A)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1A1209?style=flat-square&logo=scikit-learn&logoColor=E8C89A)
-![XGBoost](https://img.shields.io/badge/XGBoost-1A1209?style=flat-square&logoColor=E8C89A)
-![Pandas](https://img.shields.io/badge/Pandas-1A1209?style=flat-square&logo=pandas&logoColor=E8C89A)
-![NumPy](https://img.shields.io/badge/NumPy-1A1209?style=flat-square&logo=numpy&logoColor=E8C89A)
-
-**Backend & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-1A1209?style=flat-square&logo=fastapi&logoColor=E8C89A)
-![Docker](https://img.shields.io/badge/Docker-1A1209?style=flat-square&logo=docker&logoColor=E8C89A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1209?style=flat-square&logo=postgresql&logoColor=E8C89A)
-![Next.js](https://img.shields.io/badge/Next.js-1A1209?style=flat-square&logo=nextdotjs&logoColor=E8C89A)
-![Vercel](https://img.shields.io/badge/Vercel-1A1209?style=flat-square&logo=vercel&logoColor=E8C89A)
-![Render](https://img.shields.io/badge/Render-1A1209?style=flat-square&logo=render&logoColor=E8C89A)
-![Streamlit](https://img.shields.io/badge/Streamlit-1A1209?style=flat-square&logo=streamlit&logoColor=E8C89A)
-
-**Data & Scraping**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1A1209?style=flat-square&logoColor=E8C89A)
-![Plotly](https://img.shields.io/badge/Plotly-1A1209?style=flat-square&logo=plotly&logoColor=E8C89A)
-![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-1A1209?style=flat-square&logoColor=E8C89A)
-![Selenium](https://img.shields.io/badge/Selenium-1A1209?style=flat-square&logo=selenium&logoColor=E8C89A)
-![Git](https://img.shields.io/badge/Git-1A1209?style=flat-square&logo=git&logoColor=E8C89A)
-
-<br/>
+* **Education:** BCA in AI & Data Science (Amrita Vishwa Vidyapeetham), plus certifications in Data Science, Data Analytics, and Generative AI.
+* **Professional philosophy:** solve real business problems, keep systems simple first, then scale with discipline.
+* **Career goals:** grow into a high-impact **GenAI / AI Engineer** who ships reliable products, not just demos.
+* **Specialization:** Python, SQL, FastAPI, ML, GenAI, RAG, agents, backend systems, automation, and deployment.
+* **Engineering mindset:** modular design, clear interfaces, testability, observability, performance, and production readiness.
+* **Technical interests:** LLM apps, retrieval systems, workflow automation, API design, data pipelines, MLOps, and scalable SaaS products.
 
 ---
 
-<br/>
+## 🏆 Competitive Programming & Achievements
 
-## GitHub Stats
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Coding Platforms
+
+* LeetCode: consistent problem-solving for interviews and algorithmic thinking
+* CodeChef: competitive practice and speed under constraints
+* HackerRank: SQL, Python, and structured technical practice
+* GeeksforGeeks: DSA revision and interview prep
+* Codeforces: contest-style problem solving
+
+    </td>
+    <td valign="top" width="50%">
+
+### Strengths Beyond Code
+
+* Hackathon-style product thinking
+* GenAI and data science certifications
+* Internship experience in data-focused roles
+* Building portfolio projects with business value
+* Learning through implementation, debugging, and iteration
+
+    </td>
+  </tr>
+
+</table>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it solves</th>
+    <th align="left">Why it matters</th>
+  </tr>
+  <tr>
+    <td><strong>SchemaHealer</strong></td>
+    <td>Detects CSV schema drift and repairs column mismatches using rule-based logic, fuzzy matching, and GPT-assisted semantic mapping.</td>
+    <td>Prevents broken pipelines, reduces manual cleanup, and adds auditable healing logs for data teams.</td>
+  </tr>
+  <tr>
+    <td><strong>Smart Loan Recovery System</strong></td>
+    <td>Scores recovery priority using engineered financial features, clustering, and supervised learning.</td>
+    <td>Supports better collections strategy, prioritization, and risk segmentation.</td>
+  </tr>
+  <tr>
+    <td><strong>FilmOracle</strong></td>
+    <td>Hybrid recommendation engine for movies and games using semantic similarity and structured product logic.</td>
+    <td>Shows recommendation-system design, API integration, and product thinking.</td>
+  </tr>
+  <tr>
+    <td><strong>Customer Segmentation</strong></td>
+    <td>KMeans-driven segmentation for marketing and user understanding.</td>
+    <td>Useful for targeting, personalization, and campaign optimization.</td>
+  </tr>
+</table>
+
+### Project Design Standards
+
+* **Architecture:** modular, layered, and API-first
+* **Tech stack:** Python, FastAPI, SQL, ML libraries, frontend integration where needed
+* **Key features:** validation, traceability, scalable design, and clean error handling
+* **Scalability:** stateless services, reusable components, and data pipeline readiness
+* **Security:** input validation, safe handling of files, and controlled external calls
+* **Engineering challenges:** schema drift, model reliability, feature engineering, and deployability
+* **Production readiness:** logging, configuration management, and clean boundaries between components
+
+---
+
+## ⚡ Engineering Stack
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,html,css,js,ts" />
+</p>
+
+```
+</td>
+<td valign="top" width="33%">
+```
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,streamlit" />
+</p>
+
+```
+</td>
+<td valign="top" width="33%">
+```
+
+### ⚙️ Backend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,linux" />
+</p>
+
+```
+</td>
+```
+
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+```
+</td>
+<td valign="top" width="33%">
+```
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,render,githubactions" />
+</p>
+
+```
+</td>
+<td valign="top" width="33%">
+```
+
+### 🤖 Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,huggingface" />
+</p>
+
+```
+</td>
+```
+
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+
+### ⛓️ Blockchain
+
+<p>
+<img src="https://skillicons.dev/icons?i=solidity" />
+</p>
+
+```
+</td>
+<td valign="top" width="33%">
+```
+
+### 📊 Data Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />
+</p>
+
+```
+</td>
+<td valign="top" width="33%">
+```
+
+### 🔐 Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
+
+```
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+## 🏗️ Engineering Experience
+
+<table>
+  <tr>
+    <td>
+      <strong>Production backend systems</strong><br/>
+      Clean API design, service boundaries, request validation, and maintainable structure.
+    </td>
+    <td>
+      <strong>REST APIs</strong><br/>
+      Built for predictable contracts, modular services, and integration readiness.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Authentication & Authorization</strong><br/>
+      Identity-aware flows, secure access patterns, and role-based thinking.
+    </td>
+    <td>
+      <strong>Payment gateways</strong><br/>
+      Production-minded transaction flows and reliability-first implementation.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Microservices</strong><br/>
+      Service decomposition, separation of concerns, and integration clarity.
+    </td>
+    <td>
+      <strong>Event-driven architecture</strong><br/>
+      Async-friendly workflows, decoupled communication, and scalable processing.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>CQRS & Event sourcing</strong><br/>
+      Designing systems around read/write separation and traceable state change.
+    </td>
+    <td>
+      <strong>Distributed systems</strong><br/>
+      Failure-aware, observable, and scale-conscious engineering choices.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Cloud-native applications</strong><br/>
+      Deployment-aware development with portability and operational stability.
+    </td>
+    <td>
+      <strong>AI engineering</strong><br/>
+      RAG, agents, evaluation, prompt workflows, and model-assisted product layers.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Blockchain engineering</strong><br/>
+      Interest in smart-contract ecosystems and trust-minimized systems.
+    </td>
+    <td>
+      <strong>Data engineering</strong><br/>
+      ETL thinking, schema handling, quality checks, and pipeline resilience.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Security engineering</strong><br/>
+      Input validation, safe defaults, least privilege, and risk reduction.
+    </td>
+    <td>
+      <strong>Performance optimization</strong><br/>
+      Practical profiling, targeted improvements, and production tuning.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Professional Highlights
+
+* Built and iterated on **AI, ML, and automation projects** with real-world utility
+* Designed systems with **clean module boundaries** and maintainable code structure
+* Applied **feature engineering, model selection, validation, and evaluation**
+* Developed **backend-first thinking** with focus on API contracts and robustness
+* Worked across **Python, SQL, ML, GenAI, deployment, and product logic**
+* Built portfolio projects that demonstrate **business usefulness**, not just technical novelty
+* Continuously improving toward **open-source visibility and recruiter-ready execution**
+
+---
+
+## 📈 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hoshangsheth&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A1209&title_color=E8C89A&text_color=A0856A&icon_color=E8C89A" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshangsheth&layout=compact&hide_border=true&langs_count=8&bg_color=1A1209&title_color=E8C89A&text_color=A0856A" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoshangsheth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoshangsheth&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=hoshangsheth&hide_border=true&background=1A1209&ring=E8C89A&fire=E8C89A&currStreakLabel=E8C89A&sideLabels=A0856A&currStreakNum=E8C89A&sideNums=A0856A&dates=6B5240" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoshangsheth&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshangsheth&bg_color=1A1209&color=E8C89A&line=A0856A&point=E8C89A&area=true&area_color=A0856A&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## Projects Worth Your Time
-
-<div align="center">
-
-<a href="https://github.com/hoshangsheth/Smart-Loan-Recovery-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoshangsheth&repo=Smart-Loan-Recovery-System&hide_border=true&bg_color=1A1209&title_color=E8C89A&text_color=A0856A&icon_color=E8C89A" />
-</a>
-&nbsp;
-<a href="https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hoshangsheth&repo=Movies-Games-Recommendation-Engine&hide_border=true&bg_color=1A1209&title_color=E8C89A&text_color=A0856A&icon_color=E8C89A" />
-</a>
-
-**[Smart Loan Recovery System](https://github.com/hoshangsheth/smart-loan-recovery-system)** &nbsp;·&nbsp; [Live](https://smart-loan-recovery-system.streamlit.app/)
-XGBoost + clustering to predict borrower risk and recommend recovery strategy. Built for financial institutions to action decisions, not just view data.
-`XGBoost` `Scikit-Learn` `Streamlit`
-
-**[Movies & Games Recommendation Engine](https://github.com/hoshangsheth/Movies-Games-Recommendation-Engine)** &nbsp;·&nbsp; [Live](https://filmoracle.vercel.app/)
-Content-based recommender using NLP + cosine similarity. Pulls live metadata from TMDB and RAWG APIs. Built for real discovery, not demos.
-`NLP` `Cosine Similarity` `TMDB API` `RAWG API` `Streamlit`
-
-**[Bank Customer Churn Predictor](https://github.com/hoshangsheth/churn-predictor-app)** &nbsp;·&nbsp; [Live](https://bank-churn-predictor-app.streamlit.app/)
-End-to-end ANN trained on 10 demographic and financial features. Real-time churn probability scoring with an animated risk indicator UI.
-`TensorFlow` `Keras` `Scikit-Learn` `Streamlit`
-
-<br/>
-
----
-
-<br/>
-
-## Currently Building
-
-<div align="center">
-
-| Project | Stack | Status |
-|:---|:---|:---:|
-| **SchemaHealer** - CSV schema drift detection & auto-healing via GPT-4o-mini | `FastAPI` `GPT-4o-mini` `Next.js` `Render` | In Progress |
-| **AI Entertainment Decision Assistant** - Group recommendation with consensus-driven picks | `Gemini 1.5 Flash` `FastAPI` `LangChain` `Next.js` | In Progress |
-| **AI GitHub Code Review Platform** - Automated code review, no senior dev required | `FastAPI` `Gemini` `Supabase` `GitHub API` | In Progress |
-
-</div>
-
-Also deepening: LangGraph agents &nbsp;·&nbsp; Fine-tuning workflows &nbsp;·&nbsp; Production RAG patterns
-
-<br/>
-
----
-
-<br/>
-
-## Open To
-
-- **Full-time roles** (WFO / Remote) - Gen AI Engineer, ML Engineer
-- **Freelance** - LLM integrations, RAG pipelines, AI-powered backends
-- **Collabs** on real products, not hackathon throwaway code
-
-<br/>
-
----
-
-<br/>
-
-## Let's Talk
-
-<div align="center">
-
-<a href="https://www.hoshangsheth.com"><img src="https://img.shields.io/badge/PORTFOLIO-www.hoshangsheth.com-E8C89A?style=for-the-badge&logo=firefox&logoColor=1A1209" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hoshangsheth"><img src="https://img.shields.io/badge/LINKEDIN-hoshangsheth-E8C89A?style=for-the-badge&logo=linkedin&logoColor=1A1209" /></a>
-&nbsp;
-<a href="mailto:hoshangsheth@gmail.com"><img src="https://img.shields.io/badge/EMAIL-hoshangsheth@gmail.com-E8C89A?style=for-the-badge&logo=gmail&logoColor=1A1209" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=hoshangsheth&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8C89A&height=100&section=footer" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoshangsheth&theme=tokyo-night&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+* AI Agents
+* LLM Engineering
+* System Design
+* Cloud Native Architecture
+* Kubernetes
+* Distributed Computing
+* High Performance Systems
+* Blockchain Infrastructure
+* Agentic AI
+* RAG Systems
+* Multi-Agent Systems
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+<a href="mailto:hoshangsheth@gmail.com"><img src="https://img.shields.io/badge/Email-hoshangsheth%40gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hoshangsheth/"><img src="https://img.shields.io/badge/LinkedIn-hoshangsheth-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/hoshangsheth"><img src="https://img.shields.io/badge/GitHub-hoshangsheth-7AA2F7?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://hoshangsheth.com"><img src="https://img.shields.io/badge/Portfolio-hoshangsheth.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-7AA2F7?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-7AA2F7?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-7AA2F7?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-7AA2F7?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter%2FX-Profile-7AA2F7?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
+## 💬 Signature Quote
+
+> “Build systems that survive real traffic, real failures, and real business pressure — everything else is just a demo.”
+
+---
+
+<div align="center">
+
+**Tokyo Night. Production-first. Recruiter-ready. Open-source minded.**
 
 </div>
