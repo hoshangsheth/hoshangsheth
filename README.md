@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=820&lines=Hoshang+Sheth;Generative+AI+Engineer;Backend+%2B+MLOps+%2B+Automation;Building+production-grade+AI+systems" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=820&lines=Hoshang+Sheth;Generative+AI+Engineer;AI+Systems+%2B+Backend+%2B+Automation;Building+production-oriented+AI+systems" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=hoshangsheth&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
 
@@ -13,10 +13,10 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20Engineering-Production%20Systems-1ABC9C?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-AI%20Systems-1ABC9C?style=flat-square" />
 <img src="https://img.shields.io/badge/Backend%20Engineering-FastAPI%20%7C%20Python-9B59B6?style=flat-square" />
-<img src="https://img.shields.io/badge/MLOps%20%26%20Automation-Scalable%20Workflows-F39C12?style=flat-square" />
-<img src="https://img.shields.io/badge/Open%20Source-Recruiter%20Ready-7AA2F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation%20%26%20Agents-Intelligent%20Workflows-F39C12?style=flat-square" />
+<img src="https://img.shields.io/badge/Founder%20Product-SchemaHealer-7AA2F7?style=flat-square" />
 
 </div>
 
@@ -24,11 +24,13 @@
 
 ## About Me
 
-I'm a Generative AI Engineer with a BCA in AI & Data Science from Amrita Vishwa Vidyapeetham, backed by certifications in Generative AI, Data Science, Data Analytics. I build backend APIs, retrieval-augmented generation systems, AI agents, Automations, and ML pipelines - and I care more about whether a system survives real usage than whether a demo looks good in a screen recording.
+I'm a Generative AI Engineer with a BCA in AI & Data Science from Amrita Vishwa Vidyapeetham, backed by certifications in Generative AI, Data Science, and Data Analytics. I build AI-powered applications, backend APIs, RAG systems, AI agents, automations, and ML-backed products.
 
-My default engineering approach: get the simplest version working end-to-end first, then harden it. That usually means starting with a clean FastAPI service and a working data flow before adding clustering, embeddings, or explainability layers on top. When something breaks in production, a memory ceiling on a free-tier host, a schema mismatch in a pipeline, I treat it as a design problem to solve, not a bug to patch around.
+I care more about whether a system survives real usage and failure than whether a demo looks good in a screen recording.
 
-**Focus areas:** backend API development, RAG systems, LLM integrations, recommendation systems, feature engineering, and deploying ML-backed products on constrained infrastructure (free-tier hosting, no dedicated ops team).
+My default engineering approach is simple: get the smallest useful version working end-to-end first, then harden it. I prefer clear system boundaries, strong input validation, deterministic logic where it makes sense, LLMs where they add real value, and graceful fallbacks when AI services fail.
+
+**Focus areas:** Generative AI, LLM applications, RAG systems, AI agents, backend engineering, automation, AI-powered products, data pipelines, and production-oriented system design.
 
 ---
 
@@ -42,27 +44,27 @@ My default engineering approach: get the simplest version working end-to-end fir
   </tr>
   <tr>
     <td><strong>SchemaHealer</strong></td>
-    <td>Detects CSV schema drift and repairs column mismatches using rule-based logic, fuzzy matching, and GPT-assisted semantic mapping.</td>
-    <td>Focused on auditability — every automated fix is logged so data teams can review what changed and why, not just trust a black-box repair.</td>
+    <td>AI-powered CRM data recovery and schema normalization platform that detects schema drift and recovers inconsistent source columns.</td>
+    <td>Founder-built MVP using a hybrid recovery pipeline: rule matching, fuzzy matching, Gemini-powered semantic recovery, dataset verification, healing reports, and validated CSV export.</td>
   </tr>
   <tr>
     <td><strong>FilmOracle</strong></td>
-    <td>Hybrid recommendation engine for movies and games, combining semantic similarity with structured product logic.</td>
-    <td>Refactored from a single 1,200+ line Streamlit app into a FastAPI + React monorepo. Precomputed similarity matrices caused OOM crashes on Render's free tier, so I redesigned the engine to compute cosine similarity on demand instead of persisting large matrices.</td>
+    <td>Hybrid recommendation engine for movies and games using semantic similarity and structured recommendation logic.</td>
+    <td>Refactored from a large Streamlit prototype into a FastAPI + React application. Redesigned similarity computation to avoid memory-heavy precomputed matrices on constrained infrastructure.</td>
   </tr>
   <tr>
     <td><strong>Recovia</strong></td>
-    <td>Fintech SaaS product that scores loan recovery priority using engineered financial features, clustering-based risk segmentation, and supervised learning, with SHAP-based explainability for each prediction.</td>
-    <td>Rebuilt from a 1,500+ line Streamlit prototype into a FastAPI backend + React/Vite/Tailwind frontend. Ships an animated SVG risk gauge, a live segmentation feature, and auto-generated PDF reports via ReportLab.</td>
+    <td>ML-powered loan recovery system using engineered financial features, clustering-based risk segmentation, supervised learning, and SHAP-based explainability.</td>
+    <td>Rebuilt from a Streamlit prototype into a FastAPI backend and React/Vite/Tailwind frontend with automated prediction workflows and report generation.</td>
   </tr>
   <tr>
     <td><strong>Customer Segmentation</strong></td>
-    <td>KMeans-driven clustering for marketing and user understanding.</td>
-    <td>Feature engineering and cluster validation focused on producing segments that are actually usable for targeting and campaign design, not just statistically distinct.</td>
+    <td>KMeans-based customer segmentation for identifying meaningful behavioral and business-oriented customer groups.</td>
+    <td>Focused on feature engineering, cluster validation, and producing segments that can support practical targeting and decision-making.</td>
   </tr>
 </table>
 
-**Common design principles across projects:** API-first architecture, stateless services, input validation on all external data, and clean boundaries between the ML/data layer and the API layer, so a model or pipeline can change without breaking the interface around it.
+**Common design principles across projects:** API-first architecture, clear service boundaries, input validation at system boundaries, separation of business logic from infrastructure, deterministic processing before unnecessary LLM calls, and graceful failure handling.
 
 ---
 
@@ -100,7 +102,7 @@ My default engineering approach: get the simplest version working end-to-end fir
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
-Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • ChromaDB • OpenAI APIs • XGBoost
+Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • XGBoost • NLP • RAG • LLMs • AI Agents • Vector Search
 
 </td>
 
@@ -110,6 +112,8 @@ Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • ChromaDB • 
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
+PostgreSQL • MySQL • ChromaDB • Vector Databases
+
 </td>
 
 <td valign="top">
@@ -118,7 +122,7 @@ Pandas • NumPy • LangChain • LlamaIndex • Hugging Face • ChromaDB • 
 
 <img src="https://skillicons.dev/icons?i=git,githubactions,vercel" />
 
-Docker • Render • Hugging Face Spaces • Linux • Postman
+Docker • Render • Hugging Face Spaces • Linux • Postman • REST APIs
 
 </td>
 </tr>
@@ -128,11 +132,14 @@ Docker • Render • Hugging Face Spaces • Linux • Postman
 
 ## Professional Highlights
 
-* Rebuilt two production ML applications (SLRS, FilmOracle) from Streamlit prototypes into FastAPI + React products, including solving a real memory-constraint failure on free-tier hosting
-* Applied feature engineering, clustering, and supervised learning to real segmentation and scoring problems, with explainability (SHAP) as a first-class requirement rather than an afterthought
-* Designed and shipped RAG and LLM-integration components as part of larger application architectures, not standalone notebooks
-* Worked backend-first: API contracts, validation, and error handling designed before UI polish
-* Deploy exclusively to free-tier infrastructure (Render, Vercel), which forces deliberate tradeoffs around memory, cold starts, and artifact size
+* Built and deployed AI and ML applications across backend, AI, data, and frontend layers
+* Built SchemaHealer, a founder-led GenAI product focused on CRM data recovery, schema normalization, verification, and resilient LLM-assisted recovery
+* Rebuilt ML applications such as Recovia and FilmOracle from Streamlit prototypes into FastAPI-based application architectures
+* Designed hybrid AI systems combining deterministic logic, fuzzy matching, and LLM-based semantic reasoning
+* Designed RAG and LLM integration components as part of larger application architectures rather than isolated notebooks
+* Worked backend-first with explicit API contracts, validation, error handling, and separation of concerns
+* Designed graceful fallbacks for AI failures so deterministic processing can continue when an LLM provider is unavailable
+* Worked with constrained deployment environments and made deliberate tradeoffs around memory, cold starts, model size, and infrastructure cost
 
 ---
 
