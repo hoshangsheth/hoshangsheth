@@ -167,7 +167,7 @@ Docker • Render • Hugging Face Spaces • Linux • Postman • REST APIs
 <a href="mailto:hoshangsheth@gmail.com"><img src="https://img.shields.io/badge/Email-hoshangsheth%40gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hoshangsheth/"><img src="https://img.shields.io/badge/LinkedIn-hoshangsheth-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/hoshangsheth"><img src="https://img.shields.io/badge/GitHub-hoshangsheth-7AA2F7?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://hoshangsheth.com"><img src="https://img.shields.io/badge/Portfolio-hoshangsheth.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://hoshangsheth.com"><img src="https://img.shields.io/badge/Business-hoshangsheth.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
